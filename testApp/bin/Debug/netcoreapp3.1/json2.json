@@ -1,0 +1,77 @@
+﻿[
+  {
+    "Project": "HR",
+    "Date": "01/02/2020",
+    "Allocation": 10
+  },
+  {
+    "Project": "CRM",
+    "Date": "01/02/2020",
+    "Allocation": 15
+  },
+  {
+    "Project": "HR",
+    "Date": "02/02/2020",
+    "Allocation": 10
+  },
+  {
+    "Project": "CRM",
+    "Date": "02/02/2020",
+    "Allocation": 15
+  },
+  {
+    "Project": "HR",
+    "Date": "03/02/2020",
+    "Allocation": 15
+  },
+  {
+    "Project": "CRM",
+    "Date": "03/02/2020",
+    "Allocation": 15
+  },
+  {
+    "Project": "HR",
+    "Date": "04/02/2020",
+    "Allocation": 15
+  },
+  {
+    "Project": "CRM",
+    "Date": "04/02/2020",
+    "Allocation": 15
+  },
+  {
+    "Project": "HR",
+    "Date": "05/02/2020",
+    "Allocation": 15
+  },
+  {
+    "Project": "CRM",
+    "Date": "05/02/2020",
+    "Allocation": 15
+  },
+  {
+    "Project": "ECom",
+    "Date": "05/02/2020",
+    "Allocation": 15
+  },
+  {
+    "Project": "ECom",
+    "Date": "06/02/2020",
+    "Allocation": 10
+  },
+  {
+    "Project": "CRM",
+    "Date": "06/02/2020",
+    "Allocation": 15
+  },
+  {
+    "Project": "ECom",
+    "Date": "07/02/2020",
+    "Allocation": 10
+  },
+  {
+    "Project": "CRM",
+    "Date": "07/02/2020",
+    "Allocation": 15
+  }
+]

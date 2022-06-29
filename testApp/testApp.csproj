@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Cloudmersive.APIClient.NETCore.DocumentAndDataConvert" />
+    <None Remove="GeeksDotNetAssessment" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Cloudmersive.APIClient.NETCore.DocumentAndDataConvert" Version="2.3.3" />
+    <PackageReference Include="GeeksDotNetAssessment" Version="1.0.9" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Assessment.csproj" />
+  </ItemGroup>
+</Project>

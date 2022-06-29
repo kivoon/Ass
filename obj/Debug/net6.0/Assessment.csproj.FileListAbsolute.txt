@@ -1,0 +1,5 @@
+/Users/mac/Downloads/Ass/obj/Debug/net6.0/Assessment.csproj.AssemblyReference.cache
+/Users/mac/Downloads/Ass/obj/Debug/net6.0/Assessment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Downloads/Ass/obj/Debug/net6.0/Assessment.AssemblyInfoInputs.cache
+/Users/mac/Downloads/Ass/obj/Debug/net6.0/Assessment.AssemblyInfo.cs
+/Users/mac/Downloads/Ass/obj/Debug/net6.0/Assessment.csproj.CoreCompileInputs.cache

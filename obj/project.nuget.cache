@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NWkmklQ40VjxLC38isG6sl77a1ZAKGjkyOH3qgqDuBehUhiH8Q38cCjgjvGGAoYqxHUnJjx/xiE9ifM/+DFliw==",
+  "success": true,
+  "projectFilePath": "/Users/mac/Downloads/Ass/Assessment.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/geeksdotnetassessment/1.0.9/geeksdotnetassessment.1.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

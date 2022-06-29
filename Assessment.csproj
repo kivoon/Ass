@@ -1,0 +1,62 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GeeksDotNetAssessment" Version="1.0.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="testApp\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" />
+    <Compile Remove="testApp\Program.cs" />
+    <Compile Remove="testApp\obj\Debug\netcoreapp3.1\testApp.AssemblyInfo.cs" />
+    <Compile Remove="testApp\Program.cs" />
+    <Compile Remove="testApp\Program.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="testApp\obj\Debug\netcoreapp3.1\apphost" />
+    <None Remove="testApp\bin\Debug\netcoreapp3.1\testApp" />
+    <None Remove="testApp\bin\Debug\netcoreapp3.1\testApp.deps.json" />
+    <None Remove="testApp\bin\Debug\netcoreapp3.1\testApp.runtimeconfig.json" />
+    <None Remove="testApp\bin\Debug\netcoreapp3.1\testApp.runtimeconfig.dev.json" />
+    <None Remove="testApp\bin\Debug\netcoreapp3.1\testApp.dll" />
+    <None Remove="testApp\bin\Debug\netcoreapp3.1\testApp.pdb" />
+    <None Remove="testApp\json2.json" />
+    <None Remove="testApp\obj\Debug\netcoreapp3.1\testApp.csproj.AssemblyReference.cache" />
+    <None Remove="testApp\obj\testApp.csproj.nuget.g.props" />
+    <None Remove="testApp\obj\testApp.csproj.nuget.g.targets" />
+    <None Remove="testApp\obj\project.assets.json" />
+    <None Remove="testApp\obj\project.nuget.cache" />
+    <None Remove="testApp\obj\testApp.csproj.nuget.dgspec.json" />
+    <None Remove="testApp\obj\Debug\netcoreapp3.1\testApp.assets.cache" />
+    <None Remove="testApp\obj\Debug\netcoreapp3.1\testApp.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Remove="testApp\obj\Debug\netcoreapp3.1\testApp.AssemblyInfoInputs.cache" />
+    <None Remove="testApp\obj\Debug\netcoreapp3.1\testApp.csproj.CoreCompileInputs.cache" />
+    <None Remove="testApp\obj\Debug\netcoreapp3.1\testApp.dll" />
+    <None Remove="testApp\obj\Debug\netcoreapp3.1\testApp.pdb" />
+    <None Remove="testApp\obj\Debug\netcoreapp3.1\testApp.genruntimeconfig.cache" />
+    <None Remove="testApp\obj\Debug\netcoreapp3.1\testApp.csproj.FileListAbsolute.txt" />
+    <None Remove="testApp\obj\Debug\netcoreapp3.1\testApp.csproj.AssemblyReference.cache" />
+    <None Remove="testApp\obj\Debug\netcoreapp3.1\apphost" />
+    <None Remove="testApp\bin\Debug\netcoreapp3.1\JsonSubTypes.dll" />
+    <None Remove="testApp\bin\Debug\netcoreapp3.1\GeeksDotNetAssessment.dll" />
+    <None Remove="testApp\bin\Debug\netcoreapp3.1\FubarCoder.RestSharp.Portable.Core.dll" />
+    <None Remove="testApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll" />
+    <None Remove="testApp\bin\Debug\netcoreapp3.1\FubarCoder.RestSharp.Portable.HttpClient.dll" />
+    <None Remove="testApp\bin\Debug\netcoreapp3.1\Cloudmersive.APIClient.NETCore.DocumentAndDataConvert.dll" />
+    <None Remove="testApp\bin\Debug\netcoreapp3.1\Assessment.pdb" />
+    <None Remove="testApp\bin\Debug\netcoreapp3.1\Assessment.dll" />
+    <None Remove="testApp\obj\Debug\netcoreapp3.1\testApp.csproj.CopyComplete" />
+    <None Remove="testApp\bin\Debug\netcoreapp3.1\json2.json" />
+    <None Remove="testApp\obj\project.assets.json" />
+    <None Remove="testApp\obj\project.nuget.cache" />
+    <None Remove="testApp\obj\testApp.csproj.nuget.dgspec.json" />
+    <None Remove="testApp\obj\Debug\netcoreapp3.1\testApp.csproj.AssemblyReference.cache" />
+    <None Remove="testApp\obj\project.assets.json" />
+    <None Remove="testApp\obj\project.nuget.cache" />
+    <None Remove="testApp\obj\testApp.csproj.nuget.dgspec.json" />
+    <None Remove="testApp\obj\Debug\netcoreapp3.1\apphost" />
+  </ItemGroup>
+</Project>
